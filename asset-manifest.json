@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/DIG4639_Portfolio-1/static/css/main.1eca3527.chunk.css",
+    "main.js": "/DIG4639_Portfolio-1/static/js/main.e9cc7b0f.chunk.js",
+    "main.js.map": "/DIG4639_Portfolio-1/static/js/main.e9cc7b0f.chunk.js.map",
+    "runtime-main.js": "/DIG4639_Portfolio-1/static/js/runtime-main.7dfb66dc.js",
+    "runtime-main.js.map": "/DIG4639_Portfolio-1/static/js/runtime-main.7dfb66dc.js.map",
+    "static/js/2.8018128c.chunk.js": "/DIG4639_Portfolio-1/static/js/2.8018128c.chunk.js",
+    "static/js/2.8018128c.chunk.js.map": "/DIG4639_Portfolio-1/static/js/2.8018128c.chunk.js.map",
+    "static/js/3.cc2337a6.chunk.js": "/DIG4639_Portfolio-1/static/js/3.cc2337a6.chunk.js",
+    "static/js/3.cc2337a6.chunk.js.map": "/DIG4639_Portfolio-1/static/js/3.cc2337a6.chunk.js.map",
+    "index.html": "/DIG4639_Portfolio-1/index.html",
+    "static/css/main.1eca3527.chunk.css.map": "/DIG4639_Portfolio-1/static/css/main.1eca3527.chunk.css.map",
+    "static/js/2.8018128c.chunk.js.LICENSE.txt": "/DIG4639_Portfolio-1/static/js/2.8018128c.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/DIG4639_Portfolio-1/static/media/background.79d5626d.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7dfb66dc.js",
+    "static/js/2.8018128c.chunk.js",
+    "static/css/main.1eca3527.chunk.css",
+    "static/js/main.e9cc7b0f.chunk.js"
+  ]
+}

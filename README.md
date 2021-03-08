@@ -5,3 +5,6 @@ Moved the original App.js to Food component
 Added Drink component to display menu of drinks
 Added Homepage component to display the title and background image of the application homepage
 Added switch selector to App.js to choose different sections of the application
+
+
+Website link: https://kylechung.com/DIG4639_Portfolio-1/

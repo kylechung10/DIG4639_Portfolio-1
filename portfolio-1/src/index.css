@@ -1,0 +1,95 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: #ffffff;
+  color: #000000;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+
+h1 {
+  text-align: center;
+}
+
+.home {
+  background-image: linear-gradient(
+      to bottom,
+      rgba(0, 0, 0, 0.52),
+      rgba(114, 114, 114, 0.73)
+    ),
+    url("./background.jpg");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 100vh;
+  width: 100%;
+}
+
+.home > h1 {
+  color: #ffffff;
+  line-height: 100vh;
+  font-size: 5em;
+}
+
+.navigation {
+  text-align: center;
+}
+
+.navigation > button {
+  margin: 10px;
+  color: #ffffff;
+  background-color: #08004d;
+  border-radius: 15px;
+  width: 150px;
+  height: 50px;
+  font-size: 20px;
+}
+
+.navigation > button:hover {
+  background-color: #000dbd;
+  cursor: pointer;
+}
+
+.navigation > h1 {
+  font-size: 3em;
+  margin-bottom: 0px;
+}
+
+.food,
+.drinks {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.menu {
+  width: 800px;
+  padding-bottom: 50px;
+}
+
+.menu-item > button {
+  background-color: #0b5f00;
+  color: #ffffff;
+  margin: 5px;
+  width: 100px;
+  height: 25px;
+  border-radius: 25px;
+  cursor: pointer;
+}
+
+.menu-item > button:hover {
+  background-color: #129900;
+}
+
+span {
+  font-size: 18px;
+}
